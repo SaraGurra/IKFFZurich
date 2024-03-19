@@ -1,7 +1,6 @@
 # IKFFZurich
 
-Hello SaraGurra! Thanks for using this template.
-
-Don't forget to update this README.md file to suit your project's needs!
+En samling foton från IKFF:s arkiv 
+från fredskonferensen i Zürich 1919.
 
 
