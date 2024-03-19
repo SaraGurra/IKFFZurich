@@ -1,6 +1,6 @@
 # IKFFZurich
 
-En samling foton och vykort från IKFFs konngress i Zurich 1919. 
+En samling foton och vykort från IKFFs konngress i Zurich 1919 då den svenska sektionen bildades. 
 
 Ur KvinnSam:s arkiv i Göteborg.
 
