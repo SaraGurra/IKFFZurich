@@ -6,13 +6,13 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>DCHM Template</title>
-            <author corresp="#WD">Wout Dillen</author>
-            <principal>Wout Dillen</principal>
+            <title>IKFF Zürich</title>
+            <author corresp="#WD">Sara, Linnéa, Emma och Ulrika</author>
+            <principal>Alla fyra</principal>
          </titleStmt>
          <publicationStmt>
             <publisher>University of Borås</publisher>
-            <date>March 2022</date>
+            <date>Spring semester 2024</date>
             <availability>
                <licence target="https://creativecommons.org/licenses/by-sa/4.0/">
                   <p>
@@ -38,7 +38,7 @@
             <figDesc>
                A photograph of the front of a post-it with a simple example phrase.
             </figDesc>
-            <graphic xml:id="postit01_full" url="assets/img/documents/postit01.png"/>
+            <graphic xml:id="postit01_full" url="assets/img/documents/EnBild.png"/>
             <graphic xml:id="postit01_thumb" url="assets/img/documents/postit01_thumb.png"/>
          </figure>
       </surface>
